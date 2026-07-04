@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=222222&text=Hi,%20👋%20I'm%20Abdi&section=header&fontAlign=50&fontAlignY=28&animation=fadeIn&fontSize=32&fontColor=FFFFFF&desc=Cybersecurity%20•%20Linux%20•%20DevOps%20•%20Automation&descAlign=50&descAlignY=50&descSize=16&descColor=E0E0E0" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=222222&text=Hi,%20👋%20I'm%20Abdi&section=header&fontAlign=50&fontAlignY=28&animation=fadeIn&fontSize=40&fontColor=FFFFFF&desc=Cybersecurity%20•%20Linux%20•%20DevOps%20•%20Automation&descAlign=50&descAlignY=50&descSize=20&descColor=E0E0E0" width="100%" alt="Header" />
 
-<br>
+  <br><br>
 
   <h2>👨‍💻 About</h2>
   <p>
@@ -47,6 +47,6 @@
 
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=222222&text=See%20ya!%20👾&section=footer&fontAlign=50&fontAlignY=60&animation=fadeIn&fontSize=32&fontColor=FFFFFF&desc=Keep%20Learning%20•%20Keep%20Building%20•%20Keep%20Hacking&descAlign=50&descAlignY=82&descSize=16&descColor=E0E0E0" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=222222&text=See%20ya!%20👾&section=footer&fontAlign=50&fontAlignY=60&animation=fadeIn&fontSize=40&fontColor=FFFFFF&desc=Keep%20Learning%20•%20Keep%20Building%20•%20Keep%20Hacking&descAlign=50&descAlignY=82&descSize=20&descColor=E0E0E0" width="100%" alt="Footer" />
 
 </div>
